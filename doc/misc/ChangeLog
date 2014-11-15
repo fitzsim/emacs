@@ -1,5 +1,9 @@
 2014-11-15  Thomas Fitzsimmons  <fitzsim@fitzsim.org>
 
+	* eudc.texi: Combine indices.
+
+2014-11-15  Thomas Fitzsimmons  <fitzsim@fitzsim.org>
+
 	* eudc.texi (LDAP Configuration): Rename from LDAP Requirements
 	and provide configuration examples.
 
